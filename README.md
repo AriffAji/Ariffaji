@@ -4,29 +4,20 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="25" height="25"/>
   </a>
-  <a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Kofi_Logo_Blue.svg" alt="ko-fi" width="25" height="25"/>
-  </a>
   <a href="https://instagram.com/Arifffajiii" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="25" height="25"/>
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/commons/1/1b/Facebook_icon.svg" alt="facebook" width="25" height="25"/>
-  </a>
 </p>
 
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 - 🏛️ Civil Servant at **Politani Payakumbuh**  
 - 🎓 Graduated from **Politeknik Negeri Banyuwangi**  
 - 🌐 Passionate about **Web Development** and also interested in **UI/UX**  
 - 💬 *Feel free to ask me anything!*  
 - 📫 Reach me via: **[your.email@example.com]**  
 
----
 
-## 🛠️ Languages and Tools
+🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
