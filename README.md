@@ -14,7 +14,7 @@
 - 🎓 Graduated from **Politeknik Negeri Banyuwangi**  
 - 🌐 Passionate about **Web Development** and also interested in **UI/UX**  
 - 💬 *Feel free to ask me anything!*  
-- 📫 Reach me via: **[your.email@example.com]**  
+- 📫 Reach me via: **[muharifpurnamaa@gmail.com]**  
 
 
 🛠️ Languages and Tools
