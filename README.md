@@ -1,4 +1,4 @@
-# Hey 👋, I'm Aji 
+# Hey 👋, I'm Arif
 
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
